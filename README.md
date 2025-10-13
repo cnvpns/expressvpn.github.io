@@ -1,6 +1,6 @@
 # <p align="center">ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？</p>
 
-<p align="center">最近更新：2025年9月25日</p>
+<p align="center">最近更新：2025年10月13日</p>
 
 ![ExpressVPN中国评测：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？](https://raw.githubusercontent.com/cnvpns/expressvpn.github.io/refs/heads/main/image/ExpressVPN%E8%AF%84%E6%B5%8B-1.png)
 
